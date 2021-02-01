@@ -1,0 +1,32 @@
+{
+    "addFilters":{
+      "info": {
+        "CompanyName": "Test_Aut_Filter",
+        "GroupName": "NewTaxFiltersGroup44",
+        "EditGroupName" :"EditedFiltersgroup44",
+        "StartDate"     : "08/23/2018",
+        "EndDate"       : "09/23/2022",
+        "FilterName": "TestFilter",
+        "Priority"  : "1",
+        "Description"   : "Adding a filter"
+      }
+    } ,
+   "editFilters":{
+     "info" :{
+      "CompanyName": "Test_Aut_Filter",
+      
+      "FilterName": "Filteredited",
+      "Priority"  : "3"
+      
+     }
+    },
+     "deleteFilters":{
+      "info" :{
+       "CompanyName": "Test_Aut_Filter"
+       
+       
+       }
+
+   }
+}  
+      
